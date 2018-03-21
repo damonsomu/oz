@@ -1,0 +1,8 @@
+{
+  "name": "oz",
+  "app_id": "1763263d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
